@@ -1,6 +1,6 @@
 let age = 13;
 console.log(age)
-let name = ("sigma")
+let name = ("Артем")
 console.log(name);
 let isStudent = false;
 console.log (isStudent);
@@ -13,7 +13,7 @@ const myNull = null;
 console.log(myNull)
 let username = prompt("Введіть ваше ім'я")
 alert("Привіт," + username )
-let accept = confirm("списать все деньги с карты?")
+let accept = confirm("списати усi грошi з карти?")
 if (accept) {
     alert("Дякую за підтвердження!");
 } else {
